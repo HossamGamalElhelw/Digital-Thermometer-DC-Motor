@@ -1,7 +1,7 @@
 # Digital Thermometer with Motor Control using PIC18F4620
 ## Overview
-This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. The system reads temperatures from two LM35 sensors and controls two motors based on the temperature readings. Additionally, the temperatures are displayed on a 16x2 LCD.
-![Design]([https://github.com/images/logos/octocat-logo-1200x630.png](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png))
+This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. The system reads temperatures from two LM35 sensors and controls two motors based on the temperature readings. Additionally, the temperatures are displayed on a 16x4 LCD.
+![Design](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
 ## Components Used
 ** PIC18F4620 Microcontroller
 ** LM35 Temperature Sensors (2 units)
