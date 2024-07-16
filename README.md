@@ -9,7 +9,6 @@ This project demonstrates the implementation of a digital thermometer using the 
 - Motors (2 units)
 - Motor Driver (e.g., L298N or similar)
 - 16x4 LCD Display
-- L298
 ## Project Description
 ** Hardware Setup
 - Power Supply: A 5V supply powers the PIC18F4620, LM35 sensors, LCD, and motor drivers.
