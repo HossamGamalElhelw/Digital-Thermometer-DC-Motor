@@ -4,10 +4,10 @@ This project demonstrates the implementation of a digital thermometer using the 
 ## Hardware Design
 ![Design](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
 ## Components Used
-**PIC18F4620 Microcontroller
-** LM35 Temperature Sensors (2 units)
-** Motors (2 units)
-** Motor Driver (e.g., L298N or similar)
++ PIC18F4620 Microcontroller
+-LM35 Temperature Sensors (2 units)
+- Motors (2 units)
+1 Motor Driver (e.g., L298N or similar)
 ** 16x4 LCD Display
 ** L298
 ## Project Description
